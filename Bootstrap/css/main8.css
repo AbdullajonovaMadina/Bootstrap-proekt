@@ -1,0 +1,128 @@
+.baby{
+    background-color: #ccebff;
+    height: 110px;
+}
+.aaa{
+    position: relative;
+    left: 480px;
+    bottom: 40px;
+    width: 700px;
+}
+.img{
+    position: relative;
+    left: 100px;
+}
+.yurak{
+    position: relative;
+    left: 1400px;
+    bottom: 75px;
+    background-color: white;
+    width: 40px;
+}
+.sumka{
+    border: 1px solid white;
+    background-color: white;
+    width: 120px;
+    height: 40px;
+    position: relative;
+    left: 1465px;
+    bottom: 115px;
+}
+.p1{
+    position: relative;
+    left: 75px;
+    bottom: 30px;
+}
+.odam{
+    position: relative;
+    left: 1600px;
+    bottom: 155px;
+    background-color: white;
+    width: 40px;
+}
+.column{
+    column-gap: 70px;
+    column-rule: 5px solid #7fcd9b;
+    column-width: 300px;
+}
+.ca{
+    position: relative;
+    bottom:2380px;
+}
+.madina{
+    column-gap: 100px;
+    column-rule: 5px solid white;
+    column-width: 300px;
+}
+.jm{
+    background-color: #20c997;
+    color: white;
+}
+.col1{
+    border: 1px solid white;
+    box-shadow: 10px 10px 10px 0 grey;
+    position: relative;
+    left: 418px;
+    bottom: 240px;
+    background-color: white;
+    height: 150px;
+}
+.col2{
+    border: 1px solid white;
+    box-shadow: 10px 10px 10px 0 grey;
+    position: relative;
+    left: 150px;
+    top: 20px;
+    height: 150px;
+    background-color: white;
+}
+.ona{
+    position: relative;
+    left: 600px;
+    bottom: 210px;
+}
+.input{
+    position: relative;
+    top: 25px;
+}
+.btn1{
+    position: relative;
+    top: 90px;
+    width: 550px;
+    right: 195px;
+    background-color: #20c997;
+    color: white;
+}
+.raa{
+    position: relative;
+    bottom: 150px;
+}
+.hh{
+    position: relative;
+    bottom: 110px;
+    text-align: center;
+}
+.bee{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    margin-left: 10px;
+    position: relative;
+    bottom: 70px;
+}
+.a{
+    margin-left: 250px;
+}
+.b{
+    margin-left: 250px;
+}
+.c{
+    margin-left: 250px;
+}
+.d{
+    margin-left: 250px;
+}
+.imgu{
+    position: relative;
+    left: 1100px;
+}

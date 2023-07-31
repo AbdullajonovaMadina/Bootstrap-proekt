@@ -1,0 +1,263 @@
+.row1{
+    position: relative;
+    top: 115px;
+    width: 7000px;
+    height: 100px;
+    background-color: #ccebff;
+}
+.img2{
+    position: relative;
+    left: 40px;
+    /*top: 90px;*/
+}
+.img3{
+    position: relative;
+    left: 150px;
+    top: 33px;
+}
+.img4{
+    position: relative;
+    left: 170px;
+    top: 33px;
+}
+.img5{
+    position: relative;
+    left: 270px;
+    top: 33px;
+}
+.input-group{
+    position: relative;
+    top: 33px;
+    left: 100px;
+}
+.btnn{
+    position: relative;
+    width: 30px;
+    height: 30px;
+    left: 180px;
+    top: 38px;
+}
+.text{
+    position: relative;
+    left: 190px;
+    top: 40px;
+}
+.dropdown{
+    position: relative;
+    left: 300px;
+    top: 90px;
+}
+.home{
+    border: 2px solid lightgrey;
+    background-color: lightgray;
+    width: 1200px;
+    height: 50px;
+    position: relative;
+    bottom: 0px;
+    padding: 10px;
+}
+.img{
+    position: relative;
+    bottom: 50px;
+    right: 16px;
+    height: 4500px;
+}
+.immg{
+    position: relative;
+    bottom: 60px;
+}
+/*.ml-5{
+    position: relative;
+    bottom: 420px;
+    left: 300px;
+}
+p{
+    position: relative;
+    bottom: 420px;
+    left: 350px;
+}
+h4{
+    position: relative;
+    bottom: 420px;
+    left: 350px;
+}*/
+.column{
+    column-gap: 70px;
+    column-rule: 5px solid #7fcd9b;
+    column-width: 300px;
+}
+.men{
+    position: relative;
+    bottom: 350px;
+    width: 700px;
+    left: 350px;
+}
+.maftuna1{
+    position: relative;
+    bottom: 350px;
+    width: 700px;
+    left: 300px;
+}
+h4{
+    position: relative;
+    bottom: 350px;
+    left: 350px;
+}
+.bbb{
+    position: relative;
+    bottom: 300px;
+}
+.column1{
+    column-gap: 100px;
+    column-rule: 5px solid #7fcd9b;
+    column-width: 300px;
+    /*background-color: lightgreen;*/
+}
+.jm{
+    position: relative;
+    bottom: 350px;
+    background-color: #57d9bb;
+    color: white;
+}
+.imgg2{
+    position: relative;
+    bottom: 1300px;
+    left: 50px;
+}
+.jm1{
+    position: relative;
+    bottom: 1250px;
+    left: -5px;
+    width: 400px;
+    height: 200px;
+    box-shadow: 10px 10px 10px 0 grey;
+}
+.imgg3{
+    position: relative;
+    bottom: -150px;
+    left: 100px;
+}
+.jm2{
+    position: relative;
+    bottom: 105px;
+    left: -230px;
+    width: 400px;
+    height: 200px;
+    box-shadow: 0 10px 10px grey;
+}
+.imgg4{
+    position: relative;
+    right: 460px;
+    bottom: 30px;
+}
+.h1{
+    position: relative;
+    right: 350px;
+    width: 900px;
+    top: 50px;
+    color: grey;
+}
+.imgg5{
+    position: relative;
+    right: 460px;
+    top: 120px;
+    width: 200px;
+}
+.imgg6{
+    position: relative;
+    right: 245px;
+    bottom: 45px;
+    width: 200px;
+}
+.imgg7{
+    position: relative;
+    right: 30px;
+    bottom: 210px;
+    width: 200px;
+}
+.imgg8{
+    position: relative;
+    left: 190px;
+    bottom: 375px;
+    width: 200px;
+}
+.imgg9{
+    position: relative;
+    left: 410px;
+    bottom: 540px;
+    width: 200px;
+}
+.card{
+    position: relative;
+    height: 2500px;
+}
+.mfff{
+    width: 1200px;
+    height: 500px;
+    position: relative;
+    right: 40px;
+    top: 30px;
+}
+.mf1{
+    position: relative;
+    left: 70px;
+}
+.mf2{
+    position: relative;
+    left: 290px;
+    bottom: 230px;
+}
+.mf3{
+    position: relative;
+    left: 510px;
+    bottom: 460px;
+}
+.mf4{
+    position: relative;
+    left: 730px;
+    bottom: 690px;
+}
+.mf5{
+    position: relative;
+    left: 180px;
+    bottom: 580px;
+}
+.mf6{
+    position: relative;
+    left: 680px;
+    bottom: 650px;
+}
+.down{
+    position: relative;
+    left: 60px;
+}
+.mft{
+    position: relative;
+    border: 2px solid saddlebrown;
+    background-color: saddlebrown;
+    width: 1200px;
+    right: 31px;
+}
+.mf7{
+    position: relative;
+    left: 540px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
